@@ -1,0 +1,5 @@
+*.class  # Ignores Java class files
+*.log    # Ignores log files
+*.iml    # Ignores IntelliJ project files
+.idea/   # Ignores IntelliJ project folder
+target/  # Ignores Maven/Gradle build folders
